@@ -1,6 +1,3 @@
-// Export namespace
-module.exports = 'qrcodejs'; 
-
 /**
  * @fileoverview
  * - Using the 'QRCode for Javascript library'
